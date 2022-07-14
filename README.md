@@ -2,3 +2,5 @@
 Repositório de versões e colaborações
 
 Readme teste
+
+lembrei do comando: git status
